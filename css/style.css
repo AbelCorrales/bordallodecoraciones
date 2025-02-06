@@ -2388,3 +2388,11 @@ textarea {
 }
 
 /* Additional styles for the contact form, if needed, can be added here. */
+
+.cuadro{
+    width: 90%;
+    height: 60%;
+    padding: 5%;
+    font-size: 2rem;
+    
+}
